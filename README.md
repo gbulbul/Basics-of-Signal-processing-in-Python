@@ -1,7 +1,8 @@
 # Basics-of-Signal-processing-in-Python
 
 
-![digital_analog_signal](https://github.com/gbulbul/Basics-of-Signal-processing-in-Python/assets/79763247/dae5b9f8-232b-4591-8b0b-3e58b56804d2)
+![digital_analog_signal](https://github.com/gbulbul/Basics-of-Signal-processing-in-Python/assets/79763247/3be9d8db-5fe5-4663-8475-0c2a23702a9f)
+
 
 First thing I want to say I'm not an expert at signal processing. I was going to have an interview with a proffessor who was working at signal processing in a way that he and his team use brain signals taken from some medical devices to suggest patient-specific medications/treatments, so my motivation to learn signal processing was based on this.
 
