@@ -9,8 +9,8 @@ First thing I want to say I'm not an expert at signal processing. I was going to
 
 Signal is just a function of time.
 Mainly, signals are classified based on two things: 1) the time 2) the value of the signal (which is called amplitude).
-1) Depending on the time interval whether it is discrete or continuous, we can obtain discrete time and continuous time signals, respectively.
-2) Depending on the values that a function/signal takes whether discrete or continuous, we can obtain digital and analog signals, respectively.
+1) Depending on the time interval whether it is discrete or continuous, we can obtain discrete time or continuous time signals, respectively.
+2) Depending on the values that a function/signal takes whether discrete or continuous, we can obtain digital or analog signals, respectively.
 
 
 So, there are four types listed like below and they are depicted in the figure above
